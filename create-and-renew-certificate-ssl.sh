@@ -7,9 +7,9 @@ set -e
 # CONFIGURAÇÃO
 #----------------------------------------------------------------------------#
 COUNTRY="BR"
-STATE="SC"
-CITY="GASPAR"
-ORG="SLACKJEFF"
+STATE=""
+CITY=""
+ORG=""
 RSA_SIZE="4096"
 EXPIRATE_DATE="365"
 
